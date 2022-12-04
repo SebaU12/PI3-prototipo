@@ -1,0 +1,1520 @@
+{
+  "initialSceneId": "rec0",
+  "scenes": [
+    {
+      "id": "rec0",
+      "image": "FH000.jpg",
+      "data": [
+          {
+              "value" : "La huaca pucllana es una zona arqueológica y museo, el cual contiene la estructura de la antigua sociedad de los lima, esta huaca fue empleada como centro religioso con el fin de rendir culto al mar y las criaturas que viven en él.",
+              "position":{
+                "left" : 2200,
+                "top": 600
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec47",
+          "position": {
+            "left": 1500,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec1",
+          "position": {
+            "left": 3250,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec34",
+          "position": {
+            "left": 0,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec1",
+      "image": "FH001.jpg",
+      "data": [
+          {
+              "value" : "Durante 1950 se estima que la huaca tenía 22 hectáreas de terreno, sin embargo, actualmente solo tiene presente 6 hectáreas debido al crecimiento urbano en la zona, por lo que en los años 80’s la zona perteneciente a la huaca fue declarada patrimonio nacional.",
+              "position":{
+                "left" : 1100,
+                "top": 500 
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec2",
+          "position": {
+            "left": 2600,
+            "top": 700
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec0",
+          "position": {
+            "left": 700,
+            "top": 600
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec2",
+      "image": "FH002.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec3",
+          "position": {
+            "left": 1300,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }, 
+        {
+          "sceneId": "rec1",
+          "position": {
+            "left": 4000,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        } 
+      ]
+    },
+    {
+      "id": "rec3",
+      "image": "FH003.jpg",
+      "data": [
+          {
+              "value" : "El material de construcción de la huaca es de barro, debido a las condiciones climáticas el material no se veía afectado gracias a las escasas lluvias. En el caso de la edificación se crearon adobitos realizados a mano con forma de “librero”, para poder soportar los terremotos.",
+              "position":{
+                "left" : 3000,
+                "top": 500 
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec4",
+          "position": {
+            "left": 3900,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec2",
+          "position": {
+            "left": 2100,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        } 
+      ]
+    },
+    {
+      "id": "rec4",
+      "image": "FH004.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec3",
+          "position": {
+            "left": 1150,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }, 
+        {
+          "sceneId": "rec5",
+          "position": {
+            "left": 3200,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec5",
+      "image": "FH005.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec4",
+          "position": {
+            "left": 800,
+            "top": 850 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec6",
+          "position": {
+            "left": 3350,
+            "top": 400 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec6",
+      "image": "FH006.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec5",
+          "position": {
+            "left": 4000,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec7",
+          "position": {
+            "left": 1550,
+            "top": 500 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec7",
+      "image": "FH007.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec6",
+          "position": {
+            "left": 4200,
+            "top": 750 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec8",
+          "position": {
+            "left": 1750,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec8",
+      "image": "FH008.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec7",
+          "position": {
+            "left": 3150,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec9",
+          "position": {
+            "left": 700,
+            "top": 550
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec9",
+      "image": "FH009.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec8",
+          "position": {
+            "left": 3050,
+            "top": 550
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec10",
+          "position": {
+            "left": 1150,
+            "top": 750
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec10",
+      "image": "FH010.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec12",
+          "position": {
+            "left": 400,
+            "top": 750
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec11",
+          "position": {
+            "left": 3600,
+            "top": 750
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec8",
+          "position": {
+            "left": 2200,
+            "top": 800
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec11",
+      "image": "FH011.jpg",
+      "data": [
+          {
+              "value" : "La huaca se puede separar en dos sectores. El primero de ellos es la zona principal, el cual tiene forma de pirámide trunca escalonada, en donde se realizaban las actividades religiosas, estas zonas se sabe que medía 26 metros pero pudo medir más y garantiza la vista al mar. La segunda zona era la zona administrativa que se usaba para contactar a la población y brindarles una zona de descanso.",
+              "position":{
+                "left" : 2700,
+                "top": 500 
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec10",
+          "position": {
+            "left": 400,
+            "top": 800
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec12",
+      "image": "FH012.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec14",
+          "position": {
+            "left": 4350,
+            "top": 500
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec10",
+          "position": {
+            "left": 2050,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec13",
+      "image": "FH013.jpg",
+      "data": [],
+      "hotspots": [
+      ]
+    },
+    {
+      "id": "rec14",
+      "image": "FH014.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec15",
+          "position": {
+            "left": 4350,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec12",
+          "position": {
+            "left": 2150,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec15",
+      "image": "FH015.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec14",
+          "position": {
+            "left": 1350,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec16",
+          "position": {
+            "left": 2900,
+            "top": 650
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec16",
+      "image": "FH016.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec17",
+          "position": {
+            "left": 4100,
+            "top": 650
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec15",
+          "position": {
+            "left": 1700,
+            "top": 650
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec17",
+      "image": "FH017.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec16",
+          "position": {
+            "left": 1750,
+            "top": 800
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec18",
+          "position": {
+            "left": 4000,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec18",
+      "image": "FH018.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec17",
+          "position": {
+            "left": 350,
+            "top": 900 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec19",
+          "position": {
+            "left": 3900,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec19",
+      "image": "FH019.jpg",
+      "data": [
+          {
+              "value" : "Se puede apreciar que la huaca sigue su proceso de excavación, ya que gran parte de esta sigue enterrado, sin embargo, con la estructura básica se puede mostrar que las actividades religiosas que se hacían eran para rendir culto al mar y por eso se buscaba el terreno alto para asegurar la vista de este.",
+              "position":{
+                "left" : 2200,
+                "top": 300 
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec18",
+          "position": {
+            "left": 2000,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec20",
+          "position": {
+            "left": 100,
+            "top": 900 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec20",
+      "image": "FH020.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec22",
+          "position": {
+            "left": 700,
+            "top": 900 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec19",
+          "position": {
+            "left": 2200,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec21",
+      "image": "FH021.jpg",
+      "data": [],
+      "hotspots": [
+      ]
+    },
+    {
+      "id": "rec22",
+      "image": "FH022.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec20",
+          "position": {
+            "left": 200,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec23",
+          "position": {
+            "left": 1150,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec23",
+      "image": "FH023.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec22",
+          "position": {
+            "left": 3750,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec24",
+          "position": {
+            "left": 950,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec24",
+      "image": "FH024.jpg",
+      "data": [
+          {
+              "value" : "Los huari conquistaron a los lima y forzaron el abandono de la hueca, sin embargo, los huari aprovecharon los espacios como cementerio, por lo que los muros de la huaca eran destruidos y se generaban tumbas. Hasta la fecha se encontraron 68 tumbas y se estima que eran personas pertenecientes a la élite, la tradición era enterrarlos con comida y herramientas, además de un sacrificio de un niño.",
+              "position":{
+                "left" : 2300,
+                "top": 500
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec23",
+          "position": {
+            "left": 3850,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec25",
+          "position": {
+            "left": 1500,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec25",
+      "image": "FH025.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec26",
+          "position": {
+            "left": 100,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec24",
+          "position": {
+            "left": 2950,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec26",
+      "image": "FH026.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec25",
+          "position": {
+            "left": 3000,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec27",
+          "position": {
+            "left": 800,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec27",
+      "image": "FH027.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec26",
+          "position": {
+            "left": 1950,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec28",
+          "position": {
+            "left": 1600,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec28",
+      "image": "FH028.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec27",
+          "position": {
+            "left": 2800,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec30",
+          "position": {
+            "left": 3350,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec29",
+      "image": "FH029.jpg",
+      "data": [],
+      "hotspots": [
+      ]
+    },
+    {
+      "id": "rec30",
+      "image": "FH030.jpg",
+      "data": [
+          {
+              "value" : "Durante los años 1000-1100 los Ychsma tomaron posesión de la huaca y realizaban sus propios rituales, en estos se recolectaban los frutos de los cultivos (algodón, papa, etc) y se sacrificaban sapos debido a que era el símbolo de la lluvia, de esta forma se buscaba garantizar lluvias para una buena cosecha. Algo característico de estos rituales era la presencia de estatuillas de madera con la figura del dios Pachacamac.",
+              "position":{
+                "left" : 2500,
+                "top": 500
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec28",
+          "position": {
+            "left": 3650,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec32",
+          "position": {
+            "left": 1550,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec32",
+      "image": "FH032.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec33",
+          "position": {
+            "left": 600,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec30",
+          "position": {
+            "left": 3000,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec33",
+      "image": "FH033.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec32",
+          "position": {
+            "left": 3500,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec34",
+          "position": {
+            "left": 1250,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec34",
+      "image": "FH034.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec35",
+          "position": {
+            "left": 1050,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec33",
+          "position": {
+            "left": 3700,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec0",
+          "position": {
+            "left": 3000,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec35",
+      "image": "FH035.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec36",
+          "position": {
+            "left": 1200,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec34",
+          "position": {
+            "left": 3200,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec36",
+      "image": "FH036.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec37",
+          "position": {
+            "left": 200,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec35",
+          "position": {
+            "left": 2600,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec37",
+      "image": "FH037.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec38",
+          "position": {
+            "left": 500,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec36",
+          "position": {
+            "left": 2900,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec38",
+      "image": "FH038.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec39",
+          "position": {
+            "left": 650,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec37",
+          "position": {
+            "left": 3100,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec39",
+      "image": "FH039.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec40",
+          "position": {
+            "left": 200,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec38",
+          "position": {
+            "left": 2600,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec40",
+      "image": "FH040.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec42",
+          "position": {
+            "left": 1150,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec39",
+          "position": {
+            "left": 3500,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec42",
+      "image": "FH042.jpg",
+      "data": [
+          {
+              "value" : "Estos espacios eran empleados para generar reuniones y organizar a la gente que vivía en la huaca, se tenía un gran espacio y se tenían zonas elevadas donde el sacerdote podía hablar y dar las noticias al pueblo.",
+              "position":{
+                "left" : 1200,
+                "top": 400
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec43",
+          "position": {
+            "left": 300,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec40",
+          "position": {
+            "left": 2850,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec43",
+      "image": "FH043.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec44",
+          "position": {
+            "left": 600,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec42",
+          "position": {
+            "left": 2900,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec44",
+      "image": "FH044.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec45",
+          "position": {
+            "left": 0,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec43",
+          "position": {
+            "left": 2050,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec45",
+      "image": "FH045.jpg",
+      "data": [],
+      "hotspots": [
+        {
+          "sceneId": "rec46",
+          "position": {
+            "left": 0,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec44",
+          "position": {
+            "left": 1700,
+            "top": 800 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec46",
+      "image": "FH046.jpg",
+      "data": [
+          {
+              "value" : "Esta es la zona de elaboración de los adobitos, en este lugar se puede ver el proceso para realizar los adobitos. Iniciando con la obtención del barro el cual era la mezcla de la tierra y agua obtenida del río Rímac, posteriormente se le daba la forma al barro con las manos, luego de darle la forma se deja reposar en el sol para que se seque. Debido a la importancia del sol para la fabricación, el verano era la época donde se generaba una mayor producción.",
+              "position":{
+                "left" : 2700,
+                "top": 400
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec45",
+          "position": {
+            "left": 2400,
+            "top": 700 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec47",
+          "position": {
+            "left": 3600,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec47",
+      "image": "FH047.jpg",
+      "data": [
+          {
+              "value" : "Un ritual de los lima en el cual se dejaban ofrendas dentro de vasijas, luego de tener las ofrendas un sacerdote destruye las vasijas con una piedra. Las vasijas tenían impresos figuras de animales marinos como el tiburón, debido a que estos eran animales sagrados gracias a la adoración del mar que tenía esta esta cultura. Luego de destruir las vasijas los pedazos eran usados para rellenar los muros y crear un nuevo piso de muro. De esta forma abandonaron ese espacio y los siguientes sacrificios fueron en el nuevo piso.",
+              "position":{
+                "left" : 150,
+                "top": 400
+              },
+              "rotation" : {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+          }
+      ],
+      "hotspots": [
+        {
+          "sceneId": "rec46",
+          "position": {
+            "left": 3600,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "sceneId": "rec0",
+          "position": {
+            "left": 4000,
+            "top": 600 
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "rec48",
+      "image": "FH048.jpg",
+      "data": [],
+      "hotspots": [
+      ]
+    }
+  ]
+}
